@@ -8,7 +8,6 @@ This is not a pixel-for-pixel copy. Section order and content hierarchy follow t
 
 ## Live Demo
 
-- **Live URL:** _add your Vercel deployment link here after `vercel --prod`_
 - **Repository:** https://github.com/himanshuchauhan08072004-star/accredian-enterprise-
 
 ---
@@ -170,3 +169,5 @@ Given more time, the next priorities would be:
 - Full WCAG AA contrast audit across every micro-label (timestamps, captions), not just primary body copy.
 - Respect `prefers-reduced-motion` globally for the Framer Motion `animate`-based infinite loops (float, marquee currently do; the Hero's floating stat chips don't yet).
 - Real CMS-driven content (e.g. Sanity or Contentful) for FAQ/testimonial/partner data instead of static TypeScript constants, so non-engineers could update copy.
+
+## Himanshu Chauhan
